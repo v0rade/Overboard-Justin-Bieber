@@ -1,0 +1,6 @@
+# No external pip dependencies required!
+# This project runs on standard Python 3.8+ on Windows using built-in libraries:
+# - tkinter (GUI & canvas animation)
+# - ctypes (Windows Multimedia API / winmm.dll audio sync)
+# - wave & struct (WAV audio waveform analysis)
+# - math, time, random, os
